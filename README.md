@@ -1,0 +1,2 @@
+# bookinfo
+Bookinfo test app
